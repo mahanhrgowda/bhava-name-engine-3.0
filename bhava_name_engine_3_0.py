@@ -203,7 +203,7 @@ siddhi_lore = {
 }
 
 # --- Streamlit App ---
-st.set_page_config(page_title="Bhāva Name Engine 3.0", page_icon="🕉", layout="wide")
+st.set_page_config(page_title="Bhāva Name Engine 3.0 by Mahān !!!", page_icon="🕉", layout="wide")
 st.title("🌸 Bhāva Name Engine 3.0")
 st.markdown("Map your name to its **emotive essence**, **Chakra flow**, and **Rasa**, and explore associated **Vedic Devas** and **Siddhi powers** — powered by Sanskrit phonetics, Rasa theory, and Vedic wisdom.")
 
